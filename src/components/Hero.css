@@ -1,14 +1,15 @@
-.heading {
-    font-size: 80px;
-    margin-left: 50px;
+.heading{
+    margin-inline-start: 0vw;
+    margin-left: -6vw;
+    padding-left: 0vh;
 }
 .work{
-    margin-left: 50px;
-}
-.description{
-    margin-left: 50px;
+    margin-left: 0vw;
+    
 }
 .profilePic{
+    display: flex;
+    justify-items: auto;
     height: 500px;
     margin-top: -100px;
 }
